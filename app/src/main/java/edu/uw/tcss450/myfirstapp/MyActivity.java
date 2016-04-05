@@ -18,6 +18,8 @@ import com.google.android.gms.common.api.GoogleApiClient;
 
 public class MyActivity extends AppCompatActivity {
 
+//Git Practice testing...
+
     public final static String EXTRA_MESSAGE = "edu.uw.tcss450.MESSAGE";
 
     /**
